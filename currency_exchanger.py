@@ -2,6 +2,7 @@
 import datetime as dt
 
 #Defining a function that converts currencies to US Dollars
+#This is a test
 def currency_converter(amount, exchange_rate):
 	"""Converts US dollars to other currencies."""
 	value = amount * exchange_rate
