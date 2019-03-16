@@ -9,7 +9,7 @@ def currency_converter(amount, exchange_rate):
 	return value
 
 #Creating a dictionary with the exchange rates to US Dollars
-exchange_rate = {'yen':0.0091, 'pound':1.30, 'yuan':0.15}
+exchange_rate = {'yen':0.0091, 'pound':1.30, 'yuan':0.25}
 
 #Asking users to input currency and amount to convert
 currency = input ("Which currency would you like to exchange? ")
